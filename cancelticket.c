@@ -2,10 +2,10 @@
 #include <stdlib.h>
 #include <string.h>
 
-void cancleticket()
+void cancelticket()
 {
     // declaring pnr
-    char Cancle_Confirmation;
+    char Cancel_Confirmation;
     int pnr, pnr_verify;
 
     printf("You can cancel your ticket here: \n");
@@ -31,14 +31,14 @@ void cancleticket()
         printf("Are you sure you want to cancel your ticket\nWARNING! You cannot undo this action once proceeded.\n");
 
         printf("Press Y for Yes and Press N for NO - ");
-        scanf("%s", &Cancle_Confirmation);
+        scanf("%s", &Cancel_Confirmation);
 
 
-        if (Cancle_Confirmation == 'Y')
+        if (Cancel_Confirmation == 'Y')
         {
             printf("Your ticket will be cancelled. Your refund will be processed within 2-3 business days.");
         }
-        else if (Cancle_Confirmation == 'N')
+        else if (Cancel_Confirmation == 'N')
         {
             printf("You request has been cancelled.");
         }
@@ -57,7 +57,7 @@ void cancleticket()
 
 int main (){
 	
-	cancleticket();
+	cancelticket();
 
 	
 	return 0;
