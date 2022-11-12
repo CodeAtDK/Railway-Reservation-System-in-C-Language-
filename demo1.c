@@ -865,9 +865,9 @@ void Tamil_Nadu1(){
 void CSMT_Rajdhani(){
 
     printf("092347  CSMT Rajdhani\n");
-    printf("Arrival             Departure\n");
-    printf(" 18:43                09:23\n");
-    printf(" 3A     2A     1A\n");
+    printf("Departure             Arrival\n");
+    printf("  18:43                09:23\n");
+    printf(" 3A     2A     1A");
     printf(" AVL    AVL    AVL\n");
     printf(" 30     40     93\n");
     printf("$3135  $4254  $5342\n");
