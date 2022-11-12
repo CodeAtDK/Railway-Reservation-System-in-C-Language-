@@ -3,8 +3,8 @@
 void CSMT_Rajdhani(){
 
     printf("092347  CSMT Rajdhani\n");
-    printf("Departure            Arrival\n");
-    printf("  18:43               09:23\n");
+    printf("Arrival             Departure\n");
+    printf(" 18:43                09:23\n");
     printf(" 3A     2A     1A\n");
     printf(" AVL    AVL    AVL\n");
     printf(" 30     40     93\n");
