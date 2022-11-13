@@ -1,0 +1,84 @@
+                              Ticket Detail
+Departure                                                  Arrival
+  18:43                                                     09:23
+PNR                                             Train no./Name                      Class
+Passenger Detail
+#                      Name                                         Age                  Gender                 seat.no
+P 1                   dh                                           15                    1                     
+
+#                      Name                                         Age                  Gender                 seat.no
+P 2                   dh                                           15                    3                     
+
+#                      Name                                         Age                  Gender                 seat.no
+P 3                   dh                                           47                    2                     
+
+#                      Name                                         Age                  Gender                 seat.no
+P 4                   dh                                           17                    2                     
+
+Transaction ID :   
+ IR recovers only 57 of cost of travel on an average
+Payment Details
+Transaction ID :  2752200 
+IR recovers only 5720014411f cost of travel on an average
+
+Payment Details
+
+Ticket Fare
+Catering Charges (Incl. of GST)
+Convenices Fees(Incl. of GST)
+Travel Insurance Premium(Incl. of GST)
+Total Fare
+                              Ticket Detail
+Departure                                                  Arrival
+  18:43                                                     09:23
+PNR                                             Train no./Name                      Class
+Passenger Detail
+#                      Name                                         Age                  Gender                 seat.no
+P 1                   1                                           25                    3                     
+
+Transaction ID :   
+ IR recovers only 57 of cost of travel on an average
+Payment Details
+Transaction ID :  2752200 
+IR recovers only 5720014411f cost of travel on an average
+
+Payment Details
+
+Ticket Fare
+Catering Charges (Incl. of GST)
+Convenices Fees(Incl. of GST)
+Travel Insurance Premium(Incl. of GST)
+Total Fare
+                              Ticket Detail
+Departure                                                  Arrival
+  18:43                                                     09:23
+PNR                                             Train no./Name                      Class
+                              Ticket Detail
+Departure                                                  Arrival
+  18:43                                                     09:23
+PNR                                             Train no./Name                      Class
+Passenger Detail
+#                      Name                                         Age                  Gender                 seat.no
+P 1                   jkdja                                          15                  1                     
+
+P 2                   lksjdf3                                          58                  2                     
+
+P 3                   jaiksmdf                                          15                  1                     
+
+P 4                   ijasdk                                          19                  1                     
+
+P 5                   ksdofk                                          156                  3                     
+
+Transaction ID :   
+ IR recovers only 57 of cost of travel on an average
+Payment Details
+Transaction ID :  2752200 
+IR recovers only 5720014411f cost of travel on an average
+
+Payment Details
+
+Ticket Fare
+Catering Charges (Incl. of GST)
+Convenices Fees(Incl. of GST)
+Travel Insurance Premium(Incl. of GST)
+Total Fare
